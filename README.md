@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyaGupta27](https://github.com/PriyaGupta27)
 
-- 📫 How to reach me **priya27gupta20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
