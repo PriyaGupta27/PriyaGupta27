@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya Gupta</h1>
-<h3 align="center">Aspirant Software Developer</h3>
+<h3 align="center">Aspirant Data Analyst</h3>
 
 - 🌱 I’m currently learning **Power BI**
 
