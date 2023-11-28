@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Gupta</h1>
 <h3 align="center">MCA Graduate</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyaGupta27](https://github.com/PriyaGupta27)
 
