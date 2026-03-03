@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Gupta</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Scikit-learn**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PriyaGupta27](https://github.com/PriyaGupta27)
 
